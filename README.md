@@ -263,3 +263,5 @@ Check the [README-BONUS.md](README-BONUS.md) and complete as many exercises as y
 ### 2. Successful Build (Task 5)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbe7c933-371b-4b3a-be59-607080ea2baa" />
 
+[![Actions App CI](https://github.com/Nuray745/MAY-7-github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/Nuray745/MAY-7-github-actions/actions/workflows/ci.yml)
+
