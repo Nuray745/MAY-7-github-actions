@@ -255,3 +255,11 @@ The badge updates in real-time with each pipeline run.
 # Super extra bonus (if you get bored 😅)
 
 Check the [README-BONUS.md](README-BONUS.md) and complete as many exercises as you can.
+
+### 1. Failed Build (Task 4)
+![image](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/586011f6-97ed-42ff-b4cc-3d36b4170b3c" />
+)
+
+### 2. Successful Build (Task 5)
+![image](   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbe7c933-371b-4b3a-be59-607080ea2baa" />
+)
